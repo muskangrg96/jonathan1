@@ -1,0 +1,82 @@
+				Assignment     1
+
+		ALGORITHM, PSEUDO-CODE AND DESIGN
+
+Students:
+
+Muskan Garg (1793418)
+Karanpal Singh(1795037)
+Harsimranjeet Singh(1794810)
+Ajaypal Singh(1790074)
+
+
+
+
+Submitted to:
+ 				Jonathan Cyr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Algorithm of how to make coffee:
+
+Inputs:	
+						Output:													Delicious 											coffee
+coffee
+Sugar
+Cream
+water
+coffee maker machine/Stove
+coffee pot
+electricity
+mug
+
+
+
+
+
+Flow chart:
+		
+ 
+
+
+Operations:
+
+
+*Start the Process to solve the Problem.
+* my Problem:Making a Cup of Coffee
+*First pour the pot with Water
+*Then,Turn on the stove
+*Put the pot on the Stove.
+* Afterthat,Water start Boiling.
+Wait for One Minute until water get Boiled.
+*Check is your water completely Boiled or not.
+* if Yes, Turn Off your stove
+ * Pour Water into cup
+*Do you want Sugar,
+If yes,Add sugar
+If not, Go to next Step
+*Do you want cream
+If yes,Add according to your taste.
+If Not, Go to next step
+*Stir coffee.
+
+*Put this coffee in mug and enjoy  :)
+
+
